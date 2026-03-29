@@ -5,15 +5,15 @@ interface Subscription {
   id: string;
   userId: string;
   plan: string;
-  status: 'active' | 'cancelled' | 'past_due' | 'trialing';
+  status: 'active' | 'cancelled';
+  startDate: string;
   mrr: number;
-  startedAt: string;
-  cancelledAt?: string;
+  arr: number;
 }
 
 export async function GET() {
   try {
-    const subscriptions = seedData.subscriptions as Subscription[];
+    const subscriptions = seedData.subscriptions as unknown as Subscription[];
     const activeSubs = subscriptions.filter((s) => s.status === 'active');
     const mrr = activeSubs.reduce((sum, s) => sum + (s.mrr || 0), 0);
     const arr = mrr * 12;
