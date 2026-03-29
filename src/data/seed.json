@@ -1,0 +1,2232 @@
+{
+  "users": [
+    {
+      "id": "165ea242-7b4d-4cb4-ada1-e8926bd962fb",
+      "email": "user1@example.com",
+      "name": "User 1",
+      "createdAt": "2024-11-05T15:51:27.955Z",
+      "lastActiveAt": "2025-08-16T04:57:19.539Z",
+      "plan": "free",
+      "country": "AU",
+      "isActive": true
+    },
+    {
+      "id": "bd51b908-b653-4e54-b8cd-5520db5255ed",
+      "email": "user2@example.com",
+      "name": "User 2",
+      "createdAt": "2024-12-09T02:36:01.094Z",
+      "lastActiveAt": "2026-01-10T09:14:51.462Z",
+      "plan": "free",
+      "country": "UK",
+      "isActive": true
+    },
+    {
+      "id": "8b1c0963-f5cd-45bb-af22-78891543d742",
+      "email": "user3@example.com",
+      "name": "User 3",
+      "createdAt": "2025-11-17T18:03:30.764Z",
+      "lastActiveAt": "2026-03-27T19:13:33.538Z",
+      "plan": "starter",
+      "country": "UK",
+      "isActive": true
+    },
+    {
+      "id": "5a5457b5-d435-40ef-9301-ee2c287d6802",
+      "email": "user4@example.com",
+      "name": "User 4",
+      "createdAt": "2024-03-15T17:09:37.863Z",
+      "lastActiveAt": "2025-07-10T03:36:27.570Z",
+      "plan": "pro",
+      "country": "CA",
+      "isActive": true
+    },
+    {
+      "id": "bfbba2f4-8844-4fe6-8dc1-1a9e65b4897a",
+      "email": "user5@example.com",
+      "name": "User 5",
+      "createdAt": "2025-11-19T00:09:47.546Z",
+      "lastActiveAt": "2026-01-03T07:32:52.853Z",
+      "plan": "pro",
+      "country": "UK",
+      "isActive": true
+    },
+    {
+      "id": "32d45ca6-6b75-462e-967a-2c6765055f33",
+      "email": "user6@example.com",
+      "name": "User 6",
+      "createdAt": "2025-12-17T23:22:22.819Z",
+      "lastActiveAt": "2026-02-15T12:07:38.172Z",
+      "plan": "starter",
+      "country": "CA",
+      "isActive": true
+    },
+    {
+      "id": "f84c2be8-4a63-4e2d-9bc0-d48015eb6a7b",
+      "email": "user7@example.com",
+      "name": "User 7",
+      "createdAt": "2024-03-19T02:31:01.801Z",
+      "lastActiveAt": "2024-10-24T07:36:01.324Z",
+      "plan": "free",
+      "country": "US",
+      "isActive": true
+    },
+    {
+      "id": "60b7e1df-0edc-43a8-a29a-f51a8abcaef3",
+      "email": "user8@example.com",
+      "name": "User 8",
+      "createdAt": "2025-08-20T12:56:57.429Z",
+      "lastActiveAt": "2025-10-05T06:00:56.031Z",
+      "plan": "pro",
+      "country": "CA",
+      "isActive": true
+    },
+    {
+      "id": "b5162efa-c947-4c60-ab94-d9a36b561ae1",
+      "email": "user9@example.com",
+      "name": "User 9",
+      "createdAt": "2025-08-28T08:21:57.374Z",
+      "lastActiveAt": "2026-03-25T20:29:41.243Z",
+      "plan": "free",
+      "country": "FR",
+      "isActive": true
+    },
+    {
+      "id": "908c9884-dbbb-4870-9424-3fdb22c2d09c",
+      "email": "user10@example.com",
+      "name": "User 10",
+      "createdAt": "2024-07-09T19:09:28.489Z",
+      "lastActiveAt": "2025-09-18T20:27:00.858Z",
+      "plan": "enterprise",
+      "country": "AU",
+      "isActive": true
+    },
+    {
+      "id": "0bfd4410-926b-4729-8d97-ceac3587c18c",
+      "email": "user11@example.com",
+      "name": "User 11",
+      "createdAt": "2024-01-18T21:07:08.762Z",
+      "lastActiveAt": "2025-10-25T23:28:15.163Z",
+      "plan": "pro",
+      "country": "FR",
+      "isActive": true
+    },
+    {
+      "id": "5fd74cf2-e6b6-4e54-a2fa-cc507fb80797",
+      "email": "user12@example.com",
+      "name": "User 12",
+      "createdAt": "2024-09-08T01:40:38.684Z",
+      "lastActiveAt": "2024-12-17T18:07:52.890Z",
+      "plan": "starter",
+      "country": "FR",
+      "isActive": true
+    },
+    {
+      "id": "08d8d2a3-19ff-4c5c-a0fb-b02bec7eca1f",
+      "email": "user13@example.com",
+      "name": "User 13",
+      "createdAt": "2025-09-07T18:56:47.333Z",
+      "lastActiveAt": "2025-12-07T09:09:38.265Z",
+      "plan": "pro",
+      "country": "US",
+      "isActive": true
+    },
+    {
+      "id": "c4d356c0-e27e-40f4-ad1d-0fa458c7b4a4",
+      "email": "user14@example.com",
+      "name": "User 14",
+      "createdAt": "2025-11-28T22:56:18.640Z",
+      "lastActiveAt": "2026-03-08T16:43:19.640Z",
+      "plan": "starter",
+      "country": "FR",
+      "isActive": true
+    },
+    {
+      "id": "aa1ea757-59cd-4de4-9dc0-e7017b564258",
+      "email": "user15@example.com",
+      "name": "User 15",
+      "createdAt": "2025-01-12T05:17:16.917Z",
+      "lastActiveAt": "2025-02-16T19:54:31.691Z",
+      "plan": "enterprise",
+      "country": "AU",
+      "isActive": true
+    },
+    {
+      "id": "c0e4bdd8-ba68-404a-aac2-978705d92d05",
+      "email": "user16@example.com",
+      "name": "User 16",
+      "createdAt": "2026-03-19T00:16:24.724Z",
+      "lastActiveAt": "2026-03-25T10:19:01.603Z",
+      "plan": "pro",
+      "country": "JP",
+      "isActive": true
+    },
+    {
+      "id": "95a4b31d-486e-40fc-97ec-8bc38001d97f",
+      "email": "user17@example.com",
+      "name": "User 17",
+      "createdAt": "2024-02-21T14:53:14.998Z",
+      "lastActiveAt": "2025-12-07T09:53:59.226Z",
+      "plan": "pro",
+      "country": "FR",
+      "isActive": true
+    },
+    {
+      "id": "2089ee4a-0fe9-43f3-a420-4e623ca7f7cc",
+      "email": "user18@example.com",
+      "name": "User 18",
+      "createdAt": "2026-02-22T08:52:02.138Z",
+      "lastActiveAt": "2026-03-24T18:01:46.982Z",
+      "plan": "pro",
+      "country": "US",
+      "isActive": true
+    },
+    {
+      "id": "7599efaa-22df-434b-891c-8906637d7945",
+      "email": "user19@example.com",
+      "name": "User 19",
+      "createdAt": "2025-12-31T09:16:29.948Z",
+      "lastActiveAt": "2026-01-27T17:39:25.215Z",
+      "plan": "enterprise",
+      "country": "UK",
+      "isActive": false
+    },
+    {
+      "id": "978bdba6-d460-4d8c-8fca-f81ad8ae2fa1",
+      "email": "user20@example.com",
+      "name": "User 20",
+      "createdAt": "2025-09-30T22:54:18.113Z",
+      "lastActiveAt": "2025-12-28T23:44:58.362Z",
+      "plan": "free",
+      "country": "FR",
+      "isActive": true
+    },
+    {
+      "id": "c09a331a-f488-474c-865c-8ad44a1d4b6a",
+      "email": "user21@example.com",
+      "name": "User 21",
+      "createdAt": "2025-05-02T10:27:46.496Z",
+      "lastActiveAt": "2026-01-30T10:41:45.302Z",
+      "plan": "starter",
+      "country": "AU",
+      "isActive": false
+    },
+    {
+      "id": "c263ddd7-254a-495c-a866-8f2167ab345a",
+      "email": "user22@example.com",
+      "name": "User 22",
+      "createdAt": "2025-09-11T05:14:25.146Z",
+      "lastActiveAt": "2026-02-08T16:29:38.076Z",
+      "plan": "pro",
+      "country": "US",
+      "isActive": true
+    },
+    {
+      "id": "2bc34a51-7d43-4c5c-a293-1ba2b141bc92",
+      "email": "user23@example.com",
+      "name": "User 23",
+      "createdAt": "2025-10-22T09:46:58.726Z",
+      "lastActiveAt": "2025-10-26T18:34:01.993Z",
+      "plan": "free",
+      "country": "FR",
+      "isActive": true
+    },
+    {
+      "id": "0ba31fde-67da-4aff-843f-203a293fe00b",
+      "email": "user24@example.com",
+      "name": "User 24",
+      "createdAt": "2025-03-16T11:45:28.987Z",
+      "lastActiveAt": "2025-11-29T03:27:52.583Z",
+      "plan": "free",
+      "country": "UK",
+      "isActive": true
+    },
+    {
+      "id": "eec8c995-785c-4dc3-8f4b-8b957ce51a24",
+      "email": "user25@example.com",
+      "name": "User 25",
+      "createdAt": "2024-03-12T15:00:25.772Z",
+      "lastActiveAt": "2025-05-02T13:38:49.080Z",
+      "plan": "enterprise",
+      "country": "US",
+      "isActive": true
+    },
+    {
+      "id": "f19a867c-2889-41ef-8d13-5b9a6b33fd7b",
+      "email": "user26@example.com",
+      "name": "User 26",
+      "createdAt": "2025-06-23T16:32:08.216Z",
+      "lastActiveAt": "2025-07-28T08:27:20.728Z",
+      "plan": "pro",
+      "country": "UK",
+      "isActive": true
+    },
+    {
+      "id": "e3fed955-614e-4e7b-9ba3-752f3c750c27",
+      "email": "user27@example.com",
+      "name": "User 27",
+      "createdAt": "2024-02-07T07:04:59.809Z",
+      "lastActiveAt": "2024-05-23T20:24:49.677Z",
+      "plan": "free",
+      "country": "JP",
+      "isActive": true
+    },
+    {
+      "id": "547ecec8-e8f0-441c-8c4e-519de9d898b7",
+      "email": "user28@example.com",
+      "name": "User 28",
+      "createdAt": "2024-01-27T17:50:40.447Z",
+      "lastActiveAt": "2025-01-15T10:32:28.444Z",
+      "plan": "starter",
+      "country": "UK",
+      "isActive": false
+    },
+    {
+      "id": "6c2e8c63-cc15-4209-9461-56a75bb609be",
+      "email": "user29@example.com",
+      "name": "User 29",
+      "createdAt": "2026-03-17T10:22:20.180Z",
+      "lastActiveAt": "2026-03-26T21:08:57.711Z",
+      "plan": "pro",
+      "country": "AU",
+      "isActive": true
+    },
+    {
+      "id": "b808d301-e860-4648-9618-4953ca566541",
+      "email": "user30@example.com",
+      "name": "User 30",
+      "createdAt": "2024-10-10T15:08:44.577Z",
+      "lastActiveAt": "2025-10-06T07:31:30.892Z",
+      "plan": "enterprise",
+      "country": "JP",
+      "isActive": true
+    },
+    {
+      "id": "94ffd715-a90e-4341-8018-1c8e2c642f8a",
+      "email": "user31@example.com",
+      "name": "User 31",
+      "createdAt": "2025-03-08T08:01:23.466Z",
+      "lastActiveAt": "2025-11-04T18:52:18.549Z",
+      "plan": "enterprise",
+      "country": "JP",
+      "isActive": true
+    },
+    {
+      "id": "fcc5a520-139d-4f01-8a9d-6a5ce426fe90",
+      "email": "user32@example.com",
+      "name": "User 32",
+      "createdAt": "2025-05-13T06:14:21.651Z",
+      "lastActiveAt": "2025-12-08T05:13:27.959Z",
+      "plan": "free",
+      "country": "DE",
+      "isActive": true
+    },
+    {
+      "id": "1ddd4183-ce40-4b66-860b-d5437dd0aa0c",
+      "email": "user33@example.com",
+      "name": "User 33",
+      "createdAt": "2025-01-09T14:43:30.534Z",
+      "lastActiveAt": "2025-12-09T13:22:12.125Z",
+      "plan": "pro",
+      "country": "FR",
+      "isActive": false
+    },
+    {
+      "id": "e90be38e-6787-4aed-8845-a1558fa9a7ec",
+      "email": "user34@example.com",
+      "name": "User 34",
+      "createdAt": "2024-10-13T10:39:59.807Z",
+      "lastActiveAt": "2025-12-13T22:41:41.678Z",
+      "plan": "free",
+      "country": "UK",
+      "isActive": true
+    },
+    {
+      "id": "ccb4d1fb-0646-42fa-a207-975a740ad539",
+      "email": "user35@example.com",
+      "name": "User 35",
+      "createdAt": "2024-09-24T23:20:14.647Z",
+      "lastActiveAt": "2025-05-15T03:32:59.474Z",
+      "plan": "pro",
+      "country": "DE",
+      "isActive": true
+    },
+    {
+      "id": "7f3616ff-5a83-471f-97a2-ce222490c738",
+      "email": "user36@example.com",
+      "name": "User 36",
+      "createdAt": "2024-11-23T10:38:35.904Z",
+      "lastActiveAt": "2025-10-09T20:32:10.009Z",
+      "plan": "enterprise",
+      "country": "AU",
+      "isActive": true
+    },
+    {
+      "id": "595531d4-8678-4f3e-b917-dd6faadc7ef2",
+      "email": "user37@example.com",
+      "name": "User 37",
+      "createdAt": "2024-05-14T15:51:26.799Z",
+      "lastActiveAt": "2025-08-24T21:49:20.770Z",
+      "plan": "free",
+      "country": "US",
+      "isActive": true
+    },
+    {
+      "id": "c2101634-6092-4496-aa32-4aebc109ad03",
+      "email": "user38@example.com",
+      "name": "User 38",
+      "createdAt": "2024-09-25T13:06:04.759Z",
+      "lastActiveAt": "2025-02-28T17:22:48.857Z",
+      "plan": "starter",
+      "country": "US",
+      "isActive": true
+    },
+    {
+      "id": "9b1b036b-bbf9-46b9-8dfe-950d6484fef9",
+      "email": "user39@example.com",
+      "name": "User 39",
+      "createdAt": "2024-11-09T08:17:53.691Z",
+      "lastActiveAt": "2024-12-17T22:08:55.577Z",
+      "plan": "enterprise",
+      "country": "DE",
+      "isActive": true
+    },
+    {
+      "id": "aca317d4-4b64-46b0-8acb-5d48f278b479",
+      "email": "user40@example.com",
+      "name": "User 40",
+      "createdAt": "2025-04-30T21:23:01.432Z",
+      "lastActiveAt": "2025-05-01T03:32:07.888Z",
+      "plan": "enterprise",
+      "country": "CA",
+      "isActive": true
+    },
+    {
+      "id": "e2fd2b70-ee5c-473b-8878-f7e7d67fe8b6",
+      "email": "user41@example.com",
+      "name": "User 41",
+      "createdAt": "2024-10-22T13:16:49.348Z",
+      "lastActiveAt": "2025-10-09T14:27:17.384Z",
+      "plan": "starter",
+      "country": "DE",
+      "isActive": true
+    },
+    {
+      "id": "448d191c-bfc0-472c-b709-610b5d52446c",
+      "email": "user42@example.com",
+      "name": "User 42",
+      "createdAt": "2025-05-08T03:44:58.239Z",
+      "lastActiveAt": "2025-12-18T10:09:20.599Z",
+      "plan": "pro",
+      "country": "AU",
+      "isActive": true
+    },
+    {
+      "id": "0030b9b1-74aa-4030-82d8-6983627a25c6",
+      "email": "user43@example.com",
+      "name": "User 43",
+      "createdAt": "2024-09-17T04:30:24.611Z",
+      "lastActiveAt": "2025-08-30T22:30:22.503Z",
+      "plan": "pro",
+      "country": "CA",
+      "isActive": true
+    },
+    {
+      "id": "f300dcf7-32ce-4070-9fe1-162c4e95fb03",
+      "email": "user44@example.com",
+      "name": "User 44",
+      "createdAt": "2024-01-12T14:22:41.568Z",
+      "lastActiveAt": "2024-11-01T08:19:16.487Z",
+      "plan": "pro",
+      "country": "UK",
+      "isActive": true
+    },
+    {
+      "id": "187015d5-ae0d-4f25-bd13-16f62d90332a",
+      "email": "user45@example.com",
+      "name": "User 45",
+      "createdAt": "2024-11-19T09:04:58.120Z",
+      "lastActiveAt": "2025-06-25T18:21:01.429Z",
+      "plan": "pro",
+      "country": "US",
+      "isActive": true
+    },
+    {
+      "id": "908d5433-019e-4e85-ada3-ec4efc94616a",
+      "email": "user46@example.com",
+      "name": "User 46",
+      "createdAt": "2024-12-30T21:33:59.143Z",
+      "lastActiveAt": "2025-12-06T05:23:12.277Z",
+      "plan": "pro",
+      "country": "US",
+      "isActive": true
+    },
+    {
+      "id": "2cae20d8-d60b-48f5-8d0d-e1424fb48ff5",
+      "email": "user47@example.com",
+      "name": "User 47",
+      "createdAt": "2024-10-15T06:50:47.727Z",
+      "lastActiveAt": "2026-02-28T23:01:18.020Z",
+      "plan": "free",
+      "country": "UK",
+      "isActive": true
+    },
+    {
+      "id": "7f1d8210-ec99-4d44-beef-7bdb6ab823da",
+      "email": "user48@example.com",
+      "name": "User 48",
+      "createdAt": "2025-06-17T08:45:39.560Z",
+      "lastActiveAt": "2025-07-23T08:04:57.401Z",
+      "plan": "enterprise",
+      "country": "JP",
+      "isActive": true
+    },
+    {
+      "id": "5bc1501f-531f-482f-95df-4fab477b4956",
+      "email": "user49@example.com",
+      "name": "User 49",
+      "createdAt": "2024-02-26T09:11:08.533Z",
+      "lastActiveAt": "2024-04-17T03:35:03.905Z",
+      "plan": "pro",
+      "country": "CA",
+      "isActive": true
+    },
+    {
+      "id": "bf6a2e4f-d712-4df3-9ec7-60cfdb857fcc",
+      "email": "user50@example.com",
+      "name": "User 50",
+      "createdAt": "2024-11-30T14:15:06.594Z",
+      "lastActiveAt": "2026-03-22T12:52:48.182Z",
+      "plan": "enterprise",
+      "country": "AU",
+      "isActive": true
+    },
+    {
+      "id": "2a9811da-6325-44e0-9f9b-5c78c9efe84e",
+      "email": "user51@example.com",
+      "name": "User 51",
+      "createdAt": "2026-01-01T06:01:47.048Z",
+      "lastActiveAt": "2026-01-16T05:04:28.944Z",
+      "plan": "pro",
+      "country": "US",
+      "isActive": true
+    },
+    {
+      "id": "164ca1e2-de62-4866-a86f-e2946708cb73",
+      "email": "user52@example.com",
+      "name": "User 52",
+      "createdAt": "2024-11-03T10:49:19.524Z",
+      "lastActiveAt": "2025-02-04T17:17:54.719Z",
+      "plan": "free",
+      "country": "DE",
+      "isActive": true
+    },
+    {
+      "id": "2a57c17f-1bc6-498d-b762-9a14bf4812d6",
+      "email": "user53@example.com",
+      "name": "User 53",
+      "createdAt": "2025-04-09T06:48:55.648Z",
+      "lastActiveAt": "2026-02-14T14:34:16.028Z",
+      "plan": "starter",
+      "country": "AU",
+      "isActive": true
+    },
+    {
+      "id": "1fe5e197-3382-4622-867a-a351ada4b054",
+      "email": "user54@example.com",
+      "name": "User 54",
+      "createdAt": "2025-04-16T11:16:06.127Z",
+      "lastActiveAt": "2025-08-16T13:50:18.390Z",
+      "plan": "enterprise",
+      "country": "DE",
+      "isActive": true
+    },
+    {
+      "id": "3239caf7-4ffb-400b-83a1-0323b5024d10",
+      "email": "user55@example.com",
+      "name": "User 55",
+      "createdAt": "2024-10-08T06:24:51.578Z",
+      "lastActiveAt": "2025-10-09T09:55:03.164Z",
+      "plan": "free",
+      "country": "UK",
+      "isActive": true
+    },
+    {
+      "id": "fedefe2f-1b97-4065-8482-8776b5d42257",
+      "email": "user56@example.com",
+      "name": "User 56",
+      "createdAt": "2024-11-16T01:48:21.373Z",
+      "lastActiveAt": "2025-11-09T19:54:58.621Z",
+      "plan": "starter",
+      "country": "CA",
+      "isActive": true
+    },
+    {
+      "id": "abf958da-3793-49f6-a7aa-2390ee8dabd9",
+      "email": "user57@example.com",
+      "name": "User 57",
+      "createdAt": "2025-02-14T16:39:06.122Z",
+      "lastActiveAt": "2025-11-22T20:20:04.098Z",
+      "plan": "starter",
+      "country": "FR",
+      "isActive": true
+    },
+    {
+      "id": "1f617b67-a496-48ae-af6b-4fcaca728b54",
+      "email": "user58@example.com",
+      "name": "User 58",
+      "createdAt": "2025-01-10T22:22:05.965Z",
+      "lastActiveAt": "2025-07-08T17:55:49.677Z",
+      "plan": "starter",
+      "country": "CA",
+      "isActive": true
+    },
+    {
+      "id": "3f23f33a-a9a2-4edb-9df0-83c82ffee6c8",
+      "email": "user59@example.com",
+      "name": "User 59",
+      "createdAt": "2025-11-20T02:14:09.211Z",
+      "lastActiveAt": "2026-01-16T14:27:50.067Z",
+      "plan": "starter",
+      "country": "CA",
+      "isActive": true
+    },
+    {
+      "id": "1e722a4e-9bc2-4ead-9837-487c857abd18",
+      "email": "user60@example.com",
+      "name": "User 60",
+      "createdAt": "2024-02-19T10:56:53.359Z",
+      "lastActiveAt": "2025-05-05T17:35:11.063Z",
+      "plan": "pro",
+      "country": "US",
+      "isActive": true
+    },
+    {
+      "id": "bc953df1-c0fb-4954-85ba-7da19343ea56",
+      "email": "user61@example.com",
+      "name": "User 61",
+      "createdAt": "2024-07-21T23:17:55.846Z",
+      "lastActiveAt": "2025-03-12T08:04:33.804Z",
+      "plan": "pro",
+      "country": "JP",
+      "isActive": true
+    },
+    {
+      "id": "1e0016c5-7c2c-493f-9562-5116c8759214",
+      "email": "user62@example.com",
+      "name": "User 62",
+      "createdAt": "2024-05-08T00:15:46.108Z",
+      "lastActiveAt": "2024-11-13T08:54:29.363Z",
+      "plan": "free",
+      "country": "AU",
+      "isActive": true
+    },
+    {
+      "id": "6cdbab5e-2eb6-4330-86ab-39cc800f6eb1",
+      "email": "user63@example.com",
+      "name": "User 63",
+      "createdAt": "2026-03-12T08:02:04.998Z",
+      "lastActiveAt": "2026-03-21T22:16:59.229Z",
+      "plan": "starter",
+      "country": "UK",
+      "isActive": true
+    },
+    {
+      "id": "d29121b6-071c-4f9a-8919-30aec0490247",
+      "email": "user64@example.com",
+      "name": "User 64",
+      "createdAt": "2024-06-12T07:09:08.171Z",
+      "lastActiveAt": "2025-12-31T15:55:35.495Z",
+      "plan": "enterprise",
+      "country": "DE",
+      "isActive": true
+    },
+    {
+      "id": "5d01977a-359c-40af-b1db-4a9f2ec85eaf",
+      "email": "user65@example.com",
+      "name": "User 65",
+      "createdAt": "2025-11-23T07:20:40.639Z",
+      "lastActiveAt": "2026-02-11T16:12:22.811Z",
+      "plan": "free",
+      "country": "JP",
+      "isActive": true
+    },
+    {
+      "id": "8f3a98d4-9c9e-4287-bcf6-41868865aa94",
+      "email": "user66@example.com",
+      "name": "User 66",
+      "createdAt": "2025-11-09T20:06:24.043Z",
+      "lastActiveAt": "2025-12-18T04:22:40.617Z",
+      "plan": "starter",
+      "country": "UK",
+      "isActive": true
+    },
+    {
+      "id": "fc74a1ef-c62a-4633-91e8-5fe20a77a907",
+      "email": "user67@example.com",
+      "name": "User 67",
+      "createdAt": "2025-09-01T12:45:13.971Z",
+      "lastActiveAt": "2025-12-20T20:20:41.752Z",
+      "plan": "pro",
+      "country": "FR",
+      "isActive": true
+    },
+    {
+      "id": "1d4fe479-7f3a-4412-aef4-4245fc0d8c0c",
+      "email": "user68@example.com",
+      "name": "User 68",
+      "createdAt": "2024-04-30T05:13:13.986Z",
+      "lastActiveAt": "2025-09-16T23:11:34.548Z",
+      "plan": "starter",
+      "country": "US",
+      "isActive": true
+    },
+    {
+      "id": "d57c71dd-7860-45d0-878a-de63131af21f",
+      "email": "user69@example.com",
+      "name": "User 69",
+      "createdAt": "2024-08-24T13:36:29.175Z",
+      "lastActiveAt": "2025-10-01T00:04:57.913Z",
+      "plan": "pro",
+      "country": "US",
+      "isActive": true
+    },
+    {
+      "id": "e375b53d-c0bf-4957-afde-a4238aaefa43",
+      "email": "user70@example.com",
+      "name": "User 70",
+      "createdAt": "2025-08-02T19:32:06.447Z",
+      "lastActiveAt": "2025-12-04T13:06:42.757Z",
+      "plan": "free",
+      "country": "FR",
+      "isActive": true
+    },
+    {
+      "id": "42840fef-1390-45f4-9dbc-c88dc5f14100",
+      "email": "user71@example.com",
+      "name": "User 71",
+      "createdAt": "2026-03-21T08:16:03.453Z",
+      "lastActiveAt": "2026-03-23T02:53:08.050Z",
+      "plan": "enterprise",
+      "country": "DE",
+      "isActive": true
+    },
+    {
+      "id": "1369ccd3-2579-49db-b068-ada5f263062b",
+      "email": "user72@example.com",
+      "name": "User 72",
+      "createdAt": "2025-06-19T17:07:56.619Z",
+      "lastActiveAt": "2026-02-19T01:15:30.248Z",
+      "plan": "starter",
+      "country": "FR",
+      "isActive": true
+    },
+    {
+      "id": "51dfcdd0-c1d2-4eba-a38d-367d50417605",
+      "email": "user73@example.com",
+      "name": "User 73",
+      "createdAt": "2025-07-13T12:47:08.942Z",
+      "lastActiveAt": "2025-12-10T14:35:32.995Z",
+      "plan": "enterprise",
+      "country": "FR",
+      "isActive": true
+    },
+    {
+      "id": "987711b4-a9fe-4aaa-91c9-8dc6d49615ce",
+      "email": "user74@example.com",
+      "name": "User 74",
+      "createdAt": "2025-06-15T10:17:16.942Z",
+      "lastActiveAt": "2025-06-29T12:26:12.699Z",
+      "plan": "free",
+      "country": "AU",
+      "isActive": true
+    },
+    {
+      "id": "ced7cbf8-0f51-46f7-95aa-1db729751239",
+      "email": "user75@example.com",
+      "name": "User 75",
+      "createdAt": "2024-08-22T07:10:07.908Z",
+      "lastActiveAt": "2025-05-10T21:33:27.868Z",
+      "plan": "starter",
+      "country": "CA",
+      "isActive": true
+    },
+    {
+      "id": "ea799f4e-7d02-4fe5-b371-d0aab0ef2b3c",
+      "email": "user76@example.com",
+      "name": "User 76",
+      "createdAt": "2025-10-06T20:33:41.534Z",
+      "lastActiveAt": "2026-01-17T19:52:12.843Z",
+      "plan": "starter",
+      "country": "DE",
+      "isActive": true
+    },
+    {
+      "id": "1fdc774b-57cb-4e8b-80a0-9d0b45e35d30",
+      "email": "user77@example.com",
+      "name": "User 77",
+      "createdAt": "2026-03-04T13:34:00.085Z",
+      "lastActiveAt": "2026-03-17T09:42:17.378Z",
+      "plan": "pro",
+      "country": "AU",
+      "isActive": true
+    },
+    {
+      "id": "c3a4c8ac-5ae1-4143-ac03-c8ee1fe3144e",
+      "email": "user78@example.com",
+      "name": "User 78",
+      "createdAt": "2024-11-24T20:44:28.056Z",
+      "lastActiveAt": "2025-04-17T14:13:16.439Z",
+      "plan": "pro",
+      "country": "UK",
+      "isActive": true
+    },
+    {
+      "id": "7c877477-125b-4957-90b3-554f4aad9cc2",
+      "email": "user79@example.com",
+      "name": "User 79",
+      "createdAt": "2026-03-08T18:02:44.425Z",
+      "lastActiveAt": "2026-03-25T14:53:23.413Z",
+      "plan": "enterprise",
+      "country": "US",
+      "isActive": true
+    },
+    {
+      "id": "48a4ff94-fd5e-46e0-93a6-1ce7dd1dbb16",
+      "email": "user80@example.com",
+      "name": "User 80",
+      "createdAt": "2024-12-28T13:11:23.134Z",
+      "lastActiveAt": "2025-02-26T10:53:31.052Z",
+      "plan": "pro",
+      "country": "US",
+      "isActive": true
+    },
+    {
+      "id": "122fa64b-a710-467c-8630-97a5c926fed0",
+      "email": "user81@example.com",
+      "name": "User 81",
+      "createdAt": "2024-11-15T10:33:32.070Z",
+      "lastActiveAt": "2025-06-29T16:22:43.161Z",
+      "plan": "pro",
+      "country": "US",
+      "isActive": true
+    },
+    {
+      "id": "0ad78153-8211-459a-8543-86e4ca6f83fc",
+      "email": "user82@example.com",
+      "name": "User 82",
+      "createdAt": "2024-08-15T00:44:12.935Z",
+      "lastActiveAt": "2025-03-12T21:03:54.897Z",
+      "plan": "starter",
+      "country": "JP",
+      "isActive": true
+    },
+    {
+      "id": "d748accd-5fb0-44bf-a044-33d435c66257",
+      "email": "user83@example.com",
+      "name": "User 83",
+      "createdAt": "2025-01-12T18:02:49.556Z",
+      "lastActiveAt": "2026-01-30T07:48:15.065Z",
+      "plan": "free",
+      "country": "UK",
+      "isActive": true
+    },
+    {
+      "id": "0f944b9b-1b80-449d-bdf6-5db47e14d693",
+      "email": "user84@example.com",
+      "name": "User 84",
+      "createdAt": "2025-02-10T07:47:50.251Z",
+      "lastActiveAt": "2025-08-10T03:18:46.007Z",
+      "plan": "starter",
+      "country": "CA",
+      "isActive": true
+    },
+    {
+      "id": "98a2fc41-cdb9-4c45-88cd-c967ffb7108e",
+      "email": "user85@example.com",
+      "name": "User 85",
+      "createdAt": "2025-11-16T01:12:30.431Z",
+      "lastActiveAt": "2025-12-23T14:25:10.320Z",
+      "plan": "free",
+      "country": "JP",
+      "isActive": true
+    },
+    {
+      "id": "dc453f59-cbca-40a7-bbbc-c5860b80c839",
+      "email": "user86@example.com",
+      "name": "User 86",
+      "createdAt": "2024-12-27T17:24:08.583Z",
+      "lastActiveAt": "2025-07-29T02:07:24.852Z",
+      "plan": "enterprise",
+      "country": "UK",
+      "isActive": true
+    },
+    {
+      "id": "69f690dc-257d-45d3-a7c0-0fd0b8e3b47a",
+      "email": "user87@example.com",
+      "name": "User 87",
+      "createdAt": "2024-12-19T22:54:12.803Z",
+      "lastActiveAt": "2025-02-01T19:59:22.626Z",
+      "plan": "enterprise",
+      "country": "DE",
+      "isActive": true
+    },
+    {
+      "id": "0c09985d-fa45-4c2b-8d47-2f70a0551e55",
+      "email": "user88@example.com",
+      "name": "User 88",
+      "createdAt": "2025-05-21T21:20:23.166Z",
+      "lastActiveAt": "2025-06-21T18:19:00.992Z",
+      "plan": "free",
+      "country": "CA",
+      "isActive": true
+    },
+    {
+      "id": "00337963-b3d3-469a-bd07-3ce3be7bf754",
+      "email": "user89@example.com",
+      "name": "User 89",
+      "createdAt": "2024-08-30T17:25:06.302Z",
+      "lastActiveAt": "2025-09-12T07:30:01.686Z",
+      "plan": "free",
+      "country": "CA",
+      "isActive": true
+    },
+    {
+      "id": "a4c6a07d-f0a4-48cb-a09f-14557f170830",
+      "email": "user90@example.com",
+      "name": "User 90",
+      "createdAt": "2026-03-13T13:24:23.009Z",
+      "lastActiveAt": "2026-03-22T20:47:13.076Z",
+      "plan": "pro",
+      "country": "UK",
+      "isActive": true
+    },
+    {
+      "id": "21885852-f689-42cd-a478-a8f45900023e",
+      "email": "user91@example.com",
+      "name": "User 91",
+      "createdAt": "2025-06-30T15:25:20.676Z",
+      "lastActiveAt": "2025-08-13T01:34:18.842Z",
+      "plan": "free",
+      "country": "AU",
+      "isActive": false
+    },
+    {
+      "id": "ec9eb9c7-c394-4ba9-9b4c-82640a27e1ad",
+      "email": "user92@example.com",
+      "name": "User 92",
+      "createdAt": "2024-05-13T04:52:31.341Z",
+      "lastActiveAt": "2024-06-12T04:57:19.516Z",
+      "plan": "enterprise",
+      "country": "UK",
+      "isActive": true
+    },
+    {
+      "id": "68f86226-c98e-4da6-be09-ed8027a9a7da",
+      "email": "user93@example.com",
+      "name": "User 93",
+      "createdAt": "2024-09-08T01:04:08.569Z",
+      "lastActiveAt": "2025-01-22T23:48:26.577Z",
+      "plan": "free",
+      "country": "UK",
+      "isActive": false
+    },
+    {
+      "id": "33b52275-2ff1-47b4-914c-330b99fed0a2",
+      "email": "user94@example.com",
+      "name": "User 94",
+      "createdAt": "2024-02-07T15:17:03.830Z",
+      "lastActiveAt": "2024-10-16T18:22:58.485Z",
+      "plan": "free",
+      "country": "CA",
+      "isActive": true
+    },
+    {
+      "id": "50ed628c-bf24-4fea-9546-f6815ef9d53a",
+      "email": "user95@example.com",
+      "name": "User 95",
+      "createdAt": "2025-02-02T19:51:09.454Z",
+      "lastActiveAt": "2025-06-14T10:32:47.727Z",
+      "plan": "free",
+      "country": "AU",
+      "isActive": true
+    },
+    {
+      "id": "cfe90fd6-5223-4101-96cc-3bdd89706602",
+      "email": "user96@example.com",
+      "name": "User 96",
+      "createdAt": "2025-07-27T20:51:39.321Z",
+      "lastActiveAt": "2025-11-09T06:29:25.933Z",
+      "plan": "free",
+      "country": "UK",
+      "isActive": true
+    },
+    {
+      "id": "ab83655a-34da-425a-9aeb-631ca2b5bf76",
+      "email": "user97@example.com",
+      "name": "User 97",
+      "createdAt": "2025-07-20T06:46:50.532Z",
+      "lastActiveAt": "2025-10-26T12:49:10.169Z",
+      "plan": "enterprise",
+      "country": "DE",
+      "isActive": true
+    },
+    {
+      "id": "ce21f73d-e590-4e32-af6b-4684abb6bce0",
+      "email": "user98@example.com",
+      "name": "User 98",
+      "createdAt": "2024-10-04T15:39:04.741Z",
+      "lastActiveAt": "2024-11-25T03:52:16.776Z",
+      "plan": "free",
+      "country": "JP",
+      "isActive": true
+    },
+    {
+      "id": "a2f0e6e9-5522-47c6-88de-41deabb35c7f",
+      "email": "user99@example.com",
+      "name": "User 99",
+      "createdAt": "2024-10-20T06:08:38.065Z",
+      "lastActiveAt": "2025-08-25T13:30:58.531Z",
+      "plan": "enterprise",
+      "country": "AU",
+      "isActive": true
+    },
+    {
+      "id": "19bbd0a7-6145-4b63-b26f-8bc34eac1ce0",
+      "email": "user100@example.com",
+      "name": "User 100",
+      "createdAt": "2024-07-10T06:52:51.691Z",
+      "lastActiveAt": "2024-09-06T09:54:37.414Z",
+      "plan": "pro",
+      "country": "DE",
+      "isActive": true
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": "f6212cc8-d2f5-439e-871c-886ceee48070",
+      "userId": "8b1c0963-f5cd-45bb-af22-78891543d742",
+      "plan": "starter",
+      "status": "active",
+      "startDate": "2026-01-21T11:23:18.660Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "8a1390b2-6e2e-4fd7-ba90-e3f54b6a3bea",
+      "userId": "5a5457b5-d435-40ef-9301-ee2c287d6802",
+      "plan": "pro",
+      "status": "cancelled",
+      "startDate": "2025-11-22T10:35:52.893Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "8e0e9299-16e8-425d-9095-a567ada77b15",
+      "userId": "bfbba2f4-8844-4fe6-8dc1-1a9e65b4897a",
+      "plan": "pro",
+      "status": "cancelled",
+      "startDate": "2026-01-09T00:59:55.772Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "87d17d7a-1066-48ed-bcd1-0f551c5203d7",
+      "userId": "32d45ca6-6b75-462e-967a-2c6765055f33",
+      "plan": "starter",
+      "status": "active",
+      "startDate": "2025-12-24T04:35:55.637Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "9682123a-3c05-4d39-bc8e-2faaa2fc8774",
+      "userId": "60b7e1df-0edc-43a8-a29a-f51a8abcaef3",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2026-01-23T04:25:36.184Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "1a693831-73dd-4969-a8a5-78524875efd1",
+      "userId": "908c9884-dbbb-4870-9424-3fdb22c2d09c",
+      "plan": "enterprise",
+      "status": "cancelled",
+      "startDate": "2024-11-11T13:23:39.553Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "8171283a-3896-464c-a56d-658a93d32c74",
+      "userId": "0bfd4410-926b-4729-8d97-ceac3587c18c",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2025-05-18T23:01:41.048Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "9c285555-0af4-4fb5-807b-30646d1e52ee",
+      "userId": "5fd74cf2-e6b6-4e54-a2fa-cc507fb80797",
+      "plan": "starter",
+      "status": "active",
+      "startDate": "2025-11-16T10:15:48.161Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "eb16a253-8a3d-4174-aee3-933483a0d25c",
+      "userId": "08d8d2a3-19ff-4c5c-a0fb-b02bec7eca1f",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2025-09-07T21:22:18.204Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "bb6adbe1-ec7b-4f1f-a4ec-c5d4dc699690",
+      "userId": "c4d356c0-e27e-40f4-ad1d-0fa458c7b4a4",
+      "plan": "starter",
+      "status": "active",
+      "startDate": "2026-03-22T18:40:41.521Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "c9c30144-3a17-4e05-8aa1-55cf7a931eb9",
+      "userId": "aa1ea757-59cd-4de4-9dc0-e7017b564258",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2025-12-03T09:56:34.594Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "a357dd80-3051-40f5-99e6-8294dc96f884",
+      "userId": "c0e4bdd8-ba68-404a-aac2-978705d92d05",
+      "plan": "pro",
+      "status": "cancelled",
+      "startDate": "2026-03-19T15:02:26.890Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "01ffca58-aeb2-45c2-bf1c-a8a74a988b26",
+      "userId": "95a4b31d-486e-40fc-97ec-8bc38001d97f",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2024-12-06T07:46:45.144Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "489a35ae-27b1-42fa-8ab9-c41365df2e5a",
+      "userId": "2089ee4a-0fe9-43f3-a420-4e623ca7f7cc",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2026-03-14T01:51:40.155Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "0b3d88a3-8f13-4448-95d5-147712de5156",
+      "userId": "7599efaa-22df-434b-891c-8906637d7945",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2026-03-21T08:21:03.031Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "743a6524-bae7-425c-8fd2-f3051ce5dfb9",
+      "userId": "c09a331a-f488-474c-865c-8ad44a1d4b6a",
+      "plan": "starter",
+      "status": "cancelled",
+      "startDate": "2025-08-22T06:35:13.493Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "7e10d3fb-a5be-4c03-9e19-9b9cc17c44dd",
+      "userId": "c263ddd7-254a-495c-a866-8f2167ab345a",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2025-09-11T09:33:03.181Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "28b95642-67ac-428d-b87d-0ed86954b7a4",
+      "userId": "eec8c995-785c-4dc3-8f4b-8b957ce51a24",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2025-06-10T12:07:24.105Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "bddbe510-8645-42b5-ae35-b27d279c1755",
+      "userId": "f19a867c-2889-41ef-8d13-5b9a6b33fd7b",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2025-10-24T14:50:42.992Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "4b01a1f3-2a1c-474b-8df5-d85529f53556",
+      "userId": "547ecec8-e8f0-441c-8c4e-519de9d898b7",
+      "plan": "starter",
+      "status": "active",
+      "startDate": "2025-10-22T20:28:09.965Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "e07072f1-9169-4a88-98a2-038b5ce30e79",
+      "userId": "6c2e8c63-cc15-4209-9461-56a75bb609be",
+      "plan": "pro",
+      "status": "cancelled",
+      "startDate": "2026-03-18T14:03:35.576Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "7888eb8f-021f-41f4-bc9f-b4ccdd20779d",
+      "userId": "b808d301-e860-4648-9618-4953ca566541",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2024-12-29T05:17:58.215Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "bf3aa1e7-0432-4bde-bd30-6a04a94154de",
+      "userId": "94ffd715-a90e-4341-8018-1c8e2c642f8a",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2026-03-18T06:55:41.732Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "09f8f02c-5f7c-4d2c-a17d-8aefa69ed2cb",
+      "userId": "1ddd4183-ce40-4b66-860b-d5437dd0aa0c",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2026-02-13T02:16:55.550Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "c40f3e74-ae94-414f-b8d6-adc99b38136e",
+      "userId": "ccb4d1fb-0646-42fa-a207-975a740ad539",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2025-11-11T12:53:29.679Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "950613dc-761a-4592-a948-89141b8655ed",
+      "userId": "7f3616ff-5a83-471f-97a2-ce222490c738",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2025-05-28T08:31:50.087Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "f833fae9-54c1-4903-820f-daef84b34905",
+      "userId": "c2101634-6092-4496-aa32-4aebc109ad03",
+      "plan": "starter",
+      "status": "active",
+      "startDate": "2025-02-11T12:35:38.809Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "6f6ab445-e2c2-445c-ab7b-813a290792d3",
+      "userId": "9b1b036b-bbf9-46b9-8dfe-950d6484fef9",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2025-01-12T12:08:33.814Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "ed7ea714-318c-4ecc-9204-dcbef9d046c7",
+      "userId": "aca317d4-4b64-46b0-8acb-5d48f278b479",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2025-10-10T21:16:06.554Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "c9c70c47-59ff-4bad-b064-8dbf09dc9ee5",
+      "userId": "e2fd2b70-ee5c-473b-8878-f7e7d67fe8b6",
+      "plan": "starter",
+      "status": "cancelled",
+      "startDate": "2025-10-23T04:20:19.523Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "3d46a598-8160-411e-a2e7-e14c8edb6d5e",
+      "userId": "448d191c-bfc0-472c-b709-610b5d52446c",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2025-10-05T00:12:05.222Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "3f8ec4a7-0e83-43f3-9304-0ecbd96a687f",
+      "userId": "0030b9b1-74aa-4030-82d8-6983627a25c6",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2026-01-06T22:02:20.989Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "fd88d2f3-f6a0-4c30-833a-47b37398af74",
+      "userId": "f300dcf7-32ce-4070-9fe1-162c4e95fb03",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2026-02-17T01:46:42.313Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "b33bc36e-72d6-4d20-b968-79bd03b966f5",
+      "userId": "187015d5-ae0d-4f25-bd13-16f62d90332a",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2025-02-04T13:29:27.493Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "e5c2a1e0-3012-445c-924e-8be779c0a56a",
+      "userId": "908d5433-019e-4e85-ada3-ec4efc94616a",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2025-06-11T12:24:06.810Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "3c177f06-acd3-441a-8317-9ce530e7f0da",
+      "userId": "7f1d8210-ec99-4d44-beef-7bdb6ab823da",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2025-11-05T21:18:55.457Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "f867e88e-13ee-46b0-8f8c-afc094e6f0ac",
+      "userId": "5bc1501f-531f-482f-95df-4fab477b4956",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2024-05-17T01:00:46.257Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "c6fdc579-a654-47e3-bd63-39fe3113aca0",
+      "userId": "bf6a2e4f-d712-4df3-9ec7-60cfdb857fcc",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2025-03-08T13:51:33.625Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "2e99429c-b022-47f6-8b84-bf9fbc391b61",
+      "userId": "2a9811da-6325-44e0-9f9b-5c78c9efe84e",
+      "plan": "pro",
+      "status": "cancelled",
+      "startDate": "2026-02-25T05:00:06.819Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "ca2464d5-6c6f-47ee-93dd-412a7a22b6b1",
+      "userId": "2a57c17f-1bc6-498d-b762-9a14bf4812d6",
+      "plan": "starter",
+      "status": "active",
+      "startDate": "2025-05-25T16:25:06.891Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "54c36c01-b0bd-4cb6-9250-881307a552b8",
+      "userId": "1fe5e197-3382-4622-867a-a351ada4b054",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2025-09-14T23:18:43.590Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "659e70eb-e177-434e-81ff-08a9cc5680a5",
+      "userId": "fedefe2f-1b97-4065-8482-8776b5d42257",
+      "plan": "starter",
+      "status": "cancelled",
+      "startDate": "2025-08-20T23:50:42.137Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "934618c7-efae-4918-8069-ab584199f547",
+      "userId": "abf958da-3793-49f6-a7aa-2390ee8dabd9",
+      "plan": "starter",
+      "status": "cancelled",
+      "startDate": "2025-04-15T03:18:52.627Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "e80fada9-e608-43ec-ab23-6c9ab3846198",
+      "userId": "1f617b67-a496-48ae-af6b-4fcaca728b54",
+      "plan": "starter",
+      "status": "cancelled",
+      "startDate": "2025-10-18T16:26:15.045Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "fa5882e3-9502-4d69-92ea-9ff49ec7ecee",
+      "userId": "3f23f33a-a9a2-4edb-9df0-83c82ffee6c8",
+      "plan": "starter",
+      "status": "active",
+      "startDate": "2026-03-14T11:16:34.227Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "f76c7974-004e-4b57-9d73-dd71751a4bd1",
+      "userId": "1e722a4e-9bc2-4ead-9837-487c857abd18",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2025-01-16T21:51:59.431Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "1eecf54b-c324-4f16-9892-cae371508556",
+      "userId": "bc953df1-c0fb-4954-85ba-7da19343ea56",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2026-03-15T18:35:24.741Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "68ab07b5-24eb-4e2d-b867-2bd294fa54a0",
+      "userId": "6cdbab5e-2eb6-4330-86ab-39cc800f6eb1",
+      "plan": "starter",
+      "status": "active",
+      "startDate": "2026-03-12T22:43:23.429Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "8d365cb7-bd44-4f53-b9d6-0677bd2322f4",
+      "userId": "d29121b6-071c-4f9a-8919-30aec0490247",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2024-12-09T16:42:21.666Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "26b423d0-8c34-4462-a0bb-b59593a29985",
+      "userId": "8f3a98d4-9c9e-4287-bcf6-41868865aa94",
+      "plan": "starter",
+      "status": "active",
+      "startDate": "2026-03-12T18:12:02.735Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "ffada0ca-8845-4b59-ade9-65ee3105516f",
+      "userId": "fc74a1ef-c62a-4633-91e8-5fe20a77a907",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2025-10-10T17:03:22.085Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "c566e271-e9dc-4476-ad06-ca63366cff60",
+      "userId": "1d4fe479-7f3a-4412-aef4-4245fc0d8c0c",
+      "plan": "starter",
+      "status": "cancelled",
+      "startDate": "2025-10-11T01:26:10.287Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "cc5e0b92-0389-43fd-b523-920d42ed1639",
+      "userId": "d57c71dd-7860-45d0-878a-de63131af21f",
+      "plan": "pro",
+      "status": "cancelled",
+      "startDate": "2025-01-27T20:46:00.783Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "942193f1-1e88-4293-870d-a004e3d0d7c8",
+      "userId": "42840fef-1390-45f4-9dbc-c88dc5f14100",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2026-03-27T15:47:43.739Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "b5569202-32b3-450f-87c8-472b242b5115",
+      "userId": "1369ccd3-2579-49db-b068-ada5f263062b",
+      "plan": "starter",
+      "status": "cancelled",
+      "startDate": "2025-11-26T02:40:03.368Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "e9ec8775-8910-4771-8513-26fefce2537a",
+      "userId": "51dfcdd0-c1d2-4eba-a38d-367d50417605",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2026-03-09T07:56:00.991Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "933aa8dd-36b9-4509-9f6b-cbdd0cb2deb3",
+      "userId": "ced7cbf8-0f51-46f7-95aa-1db729751239",
+      "plan": "starter",
+      "status": "cancelled",
+      "startDate": "2024-11-11T05:59:58.158Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "05714989-461d-4e0b-bbbd-000517548ba4",
+      "userId": "ea799f4e-7d02-4fe5-b371-d0aab0ef2b3c",
+      "plan": "starter",
+      "status": "active",
+      "startDate": "2026-02-27T23:47:28.003Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "48296553-741c-4ecb-9fce-2ded456e18bd",
+      "userId": "1fdc774b-57cb-4e8b-80a0-9d0b45e35d30",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2026-03-26T08:39:51.625Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "b35f46f8-0e01-4a8f-afbd-45de3adb3604",
+      "userId": "c3a4c8ac-5ae1-4143-ac03-c8ee1fe3144e",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2025-03-25T21:40:25.329Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "be0eca5e-fecd-40a0-9752-9a54a7487f18",
+      "userId": "7c877477-125b-4957-90b3-554f4aad9cc2",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2026-03-27T21:45:04.257Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "61133837-dab2-4a97-a186-b502d0792d35",
+      "userId": "48a4ff94-fd5e-46e0-93a6-1ce7dd1dbb16",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2025-09-21T11:02:12.595Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "a292afe2-95e1-4001-b48d-ce1183d03305",
+      "userId": "122fa64b-a710-467c-8630-97a5c926fed0",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2026-02-27T20:02:37.285Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "f0007892-592f-4e2b-888c-60fd39b805e3",
+      "userId": "0ad78153-8211-459a-8543-86e4ca6f83fc",
+      "plan": "starter",
+      "status": "active",
+      "startDate": "2025-02-27T02:34:35.930Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "e0ea9025-096a-4f6a-b7d6-ce5ffc7bdab5",
+      "userId": "0f944b9b-1b80-449d-bdf6-5db47e14d693",
+      "plan": "starter",
+      "status": "active",
+      "startDate": "2026-02-03T19:05:30.508Z",
+      "mrr": 9,
+      "arr": 108
+    },
+    {
+      "id": "1861744d-b56d-46e0-96fa-99f693c4a37c",
+      "userId": "dc453f59-cbca-40a7-bbbc-c5860b80c839",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2025-02-18T02:04:54.364Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "c2aa348d-c792-4c65-90a4-f9009bb5851d",
+      "userId": "69f690dc-257d-45d3-a7c0-0fd0b8e3b47a",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2025-12-03T11:10:27.140Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "53cb7c0c-8608-4376-a1c2-38983bdab624",
+      "userId": "a4c6a07d-f0a4-48cb-a09f-14557f170830",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2026-03-22T11:57:07.811Z",
+      "mrr": 29,
+      "arr": 348
+    },
+    {
+      "id": "801a06fc-7c48-43af-b545-bc8f51156f04",
+      "userId": "ec9eb9c7-c394-4ba9-9b4c-82640a27e1ad",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2025-01-08T05:25:46.165Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "fe61fd04-ce4d-4be9-bbe8-f6197713f6f1",
+      "userId": "ab83655a-34da-425a-9aeb-631ca2b5bf76",
+      "plan": "enterprise",
+      "status": "cancelled",
+      "startDate": "2026-03-15T14:44:20.783Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "4df96dfc-d772-4657-8361-7b384985f4ca",
+      "userId": "a2f0e6e9-5522-47c6-88de-41deabb35c7f",
+      "plan": "enterprise",
+      "status": "active",
+      "startDate": "2026-03-25T20:10:30.810Z",
+      "mrr": 99,
+      "arr": 1188
+    },
+    {
+      "id": "8a153b1c-0f71-4ef9-9e12-77c54fad4521",
+      "userId": "19bbd0a7-6145-4b63-b26f-8bc34eac1ce0",
+      "plan": "pro",
+      "status": "active",
+      "startDate": "2025-11-27T14:32:53.785Z",
+      "mrr": 29,
+      "arr": 348
+    }
+  ],
+  "revenueEvents": [],
+  "cohorts": [
+    {
+      "id": "7b5ce195-c077-4a28-937b-3f1082332c6f",
+      "name": "Mar 26",
+      "startDate": "2026-03-29T01:41:58.616Z",
+      "size": 12,
+      "retention": [
+        {
+          "month": 0,
+          "retentionRate": 100
+        },
+        {
+          "month": 1,
+          "retentionRate": 85
+        },
+        {
+          "month": 2,
+          "retentionRate": 77
+        },
+        {
+          "month": 3,
+          "retentionRate": 73
+        },
+        {
+          "month": 4,
+          "retentionRate": 63
+        },
+        {
+          "month": 5,
+          "retentionRate": 57
+        },
+        {
+          "month": 6,
+          "retentionRate": 47
+        },
+        {
+          "month": 7,
+          "retentionRate": 42
+        }
+      ]
+    },
+    {
+      "id": "d7cdb4a6-e4c5-4493-9a9a-a3f7467ce20c",
+      "name": "Feb 26",
+      "startDate": "2026-03-01T02:41:58.644Z",
+      "size": 9,
+      "retention": [
+        {
+          "month": 0,
+          "retentionRate": 93
+        },
+        {
+          "month": 1,
+          "retentionRate": 89
+        },
+        {
+          "month": 2,
+          "retentionRate": 77
+        },
+        {
+          "month": 3,
+          "retentionRate": 74
+        },
+        {
+          "month": 4,
+          "retentionRate": 59
+        },
+        {
+          "month": 5,
+          "retentionRate": 57
+        },
+        {
+          "month": 6,
+          "retentionRate": 43
+        },
+        {
+          "month": 7,
+          "retentionRate": 35
+        }
+      ]
+    },
+    {
+      "id": "a80e68dc-7347-48c7-a6e9-2d5bdc71afd7",
+      "name": "Jan 26",
+      "startDate": "2026-01-29T02:41:58.644Z",
+      "size": 8,
+      "retention": [
+        {
+          "month": 0,
+          "retentionRate": 97
+        },
+        {
+          "month": 1,
+          "retentionRate": 88
+        },
+        {
+          "month": 2,
+          "retentionRate": 81
+        },
+        {
+          "month": 3,
+          "retentionRate": 72
+        },
+        {
+          "month": 4,
+          "retentionRate": 59
+        },
+        {
+          "month": 5,
+          "retentionRate": 52
+        },
+        {
+          "month": 6,
+          "retentionRate": 51
+        },
+        {
+          "month": 7,
+          "retentionRate": 34
+        }
+      ]
+    },
+    {
+      "id": "14e90e48-3b7e-4d51-9dd7-ba69d818e1a8",
+      "name": "Dec 25",
+      "startDate": "2025-12-29T02:41:58.644Z",
+      "size": 7,
+      "retention": [
+        {
+          "month": 0,
+          "retentionRate": 93
+        },
+        {
+          "month": 1,
+          "retentionRate": 89
+        },
+        {
+          "month": 2,
+          "retentionRate": 82
+        },
+        {
+          "month": 3,
+          "retentionRate": 67
+        },
+        {
+          "month": 4,
+          "retentionRate": 60
+        },
+        {
+          "month": 5,
+          "retentionRate": 52
+        },
+        {
+          "month": 6,
+          "retentionRate": 46
+        },
+        {
+          "month": 7,
+          "retentionRate": 38
+        }
+      ]
+    },
+    {
+      "id": "5976cbc9-eeef-47ed-af85-37fd8b4adc75",
+      "name": "Nov 25",
+      "startDate": "2025-11-29T02:41:58.644Z",
+      "size": 16,
+      "retention": [
+        {
+          "month": 0,
+          "retentionRate": 95
+        },
+        {
+          "month": 1,
+          "retentionRate": 82
+        },
+        {
+          "month": 2,
+          "retentionRate": 75
+        },
+        {
+          "month": 3,
+          "retentionRate": 67
+        },
+        {
+          "month": 4,
+          "retentionRate": 63
+        },
+        {
+          "month": 5,
+          "retentionRate": 60
+        },
+        {
+          "month": 6,
+          "retentionRate": 48
+        },
+        {
+          "month": 7,
+          "retentionRate": 42
+        }
+      ]
+    },
+    {
+      "id": "19ab2322-7e7e-4772-b3e2-3584be2acd6d",
+      "name": "Oct 25",
+      "startDate": "2025-10-29T01:41:58.645Z",
+      "size": 9,
+      "retention": [
+        {
+          "month": 0,
+          "retentionRate": 90
+        },
+        {
+          "month": 1,
+          "retentionRate": 83
+        },
+        {
+          "month": 2,
+          "retentionRate": 78
+        },
+        {
+          "month": 3,
+          "retentionRate": 66
+        },
+        {
+          "month": 4,
+          "retentionRate": 65
+        },
+        {
+          "month": 5,
+          "retentionRate": 56
+        },
+        {
+          "month": 6,
+          "retentionRate": 46
+        },
+        {
+          "month": 7,
+          "retentionRate": 40
+        }
+      ]
+    }
+  ],
+  "funnels": [
+    {
+      "id": "8fafa5e1-5f31-4bce-b33f-321f416f0c96",
+      "name": "Onboarding Funnel",
+      "description": "New user journey",
+      "steps": [
+        {
+          "name": "Sign Up",
+          "conversions": 1000,
+          "conversionRate": 100
+        },
+        {
+          "name": "Profile",
+          "conversions": 650,
+          "conversionRate": 65
+        },
+        {
+          "name": "First Action",
+          "conversions": 400,
+          "conversionRate": 61.5
+        },
+        {
+          "name": "Activation",
+          "conversions": 280,
+          "conversionRate": 70
+        }
+      ]
+    },
+    {
+      "id": "ac51adfe-f832-4bba-b2cd-2641be7646dc",
+      "name": "Upgrade Funnel",
+      "description": "Plan upgrade flow",
+      "steps": [
+        {
+          "name": "View Pricing",
+          "conversions": 5000,
+          "conversionRate": 100
+        },
+        {
+          "name": "Start Trial",
+          "conversions": 1500,
+          "conversionRate": 30
+        },
+        {
+          "name": "Convert",
+          "conversions": 450,
+          "conversionRate": 30
+        }
+      ]
+    }
+  ],
+  "retentionCurves": [
+    {
+      "id": "b9f14c71-8bb8-4f45-b20f-247f6a4f7543",
+      "name": "Mar 26",
+      "cohortDate": "2026-03-29T01:41:58.616Z",
+      "dataPoints": [
+        {
+          "day": 0,
+          "rate": "88.00",
+          "users": 10
+        },
+        {
+          "day": 7,
+          "rate": "81.00",
+          "users": 9
+        },
+        {
+          "day": 14,
+          "rate": "70.00",
+          "users": 8
+        },
+        {
+          "day": 21,
+          "rate": "58.00",
+          "users": 6
+        },
+        {
+          "day": 28,
+          "rate": "52.00",
+          "users": 6
+        },
+        {
+          "day": 35,
+          "rate": "41.00",
+          "users": 4
+        },
+        {
+          "day": 42,
+          "rate": "32.00",
+          "users": 3
+        },
+        {
+          "day": 49,
+          "rate": "24.00",
+          "users": 2
+        }
+      ]
+    },
+    {
+      "id": "e2f56329-70f5-4fa7-a2b5-0db674b79bb7",
+      "name": "Feb 26",
+      "cohortDate": "2026-03-01T02:41:58.644Z",
+      "dataPoints": [
+        {
+          "day": 0,
+          "rate": "93.00",
+          "users": 8
+        },
+        {
+          "day": 7,
+          "rate": "81.00",
+          "users": 7
+        },
+        {
+          "day": 14,
+          "rate": "73.00",
+          "users": 6
+        },
+        {
+          "day": 21,
+          "rate": "66.00",
+          "users": 5
+        },
+        {
+          "day": 28,
+          "rate": "58.00",
+          "users": 5
+        },
+        {
+          "day": 35,
+          "rate": "47.00",
+          "users": 4
+        },
+        {
+          "day": 42,
+          "rate": "38.00",
+          "users": 3
+        },
+        {
+          "day": 49,
+          "rate": "31.00",
+          "users": 2
+        }
+      ]
+    },
+    {
+      "id": "1cbc73e0-64dd-4c25-b780-d4bfe5269c87",
+      "name": "Jan 26",
+      "cohortDate": "2026-01-29T02:41:58.644Z",
+      "dataPoints": [
+        {
+          "day": 0,
+          "rate": "92.00",
+          "users": 7
+        },
+        {
+          "day": 7,
+          "rate": "86.00",
+          "users": 6
+        },
+        {
+          "day": 14,
+          "rate": "74.00",
+          "users": 5
+        },
+        {
+          "day": 21,
+          "rate": "68.00",
+          "users": 5
+        },
+        {
+          "day": 28,
+          "rate": "58.00",
+          "users": 4
+        },
+        {
+          "day": 35,
+          "rate": "51.00",
+          "users": 4
+        },
+        {
+          "day": 42,
+          "rate": "42.00",
+          "users": 3
+        },
+        {
+          "day": 49,
+          "rate": "32.00",
+          "users": 2
+        }
+      ]
+    },
+    {
+      "id": "82059a7d-8797-4f5c-9295-38f3eb6b0ddf",
+      "name": "Dec 25",
+      "cohortDate": "2025-12-29T02:41:58.644Z",
+      "dataPoints": [
+        {
+          "day": 0,
+          "rate": "89.00",
+          "users": 6
+        },
+        {
+          "day": 7,
+          "rate": "83.00",
+          "users": 5
+        },
+        {
+          "day": 14,
+          "rate": "73.00",
+          "users": 5
+        },
+        {
+          "day": 21,
+          "rate": "65.00",
+          "users": 4
+        },
+        {
+          "day": 28,
+          "rate": "58.00",
+          "users": 4
+        },
+        {
+          "day": 35,
+          "rate": "51.00",
+          "users": 3
+        },
+        {
+          "day": 42,
+          "rate": "45.00",
+          "users": 3
+        },
+        {
+          "day": 49,
+          "rate": "39.00",
+          "users": 2
+        }
+      ]
+    },
+    {
+      "id": "15f38166-b2fb-43df-8b78-d7594e13bb27",
+      "name": "Nov 25",
+      "cohortDate": "2025-11-29T02:41:58.644Z",
+      "dataPoints": [
+        {
+          "day": 0,
+          "rate": "95.00",
+          "users": 15
+        },
+        {
+          "day": 7,
+          "rate": "84.00",
+          "users": 13
+        },
+        {
+          "day": 14,
+          "rate": "72.00",
+          "users": 11
+        },
+        {
+          "day": 21,
+          "rate": "67.00",
+          "users": 10
+        },
+        {
+          "day": 28,
+          "rate": "61.00",
+          "users": 9
+        },
+        {
+          "day": 35,
+          "rate": "49.00",
+          "users": 7
+        },
+        {
+          "day": 42,
+          "rate": "43.00",
+          "users": 6
+        },
+        {
+          "day": 49,
+          "rate": "35.00",
+          "users": 5
+        }
+      ]
+    },
+    {
+      "id": "1b5df9b4-154f-4a27-ae11-5d262b025bca",
+      "name": "Oct 25",
+      "cohortDate": "2025-10-29T01:41:58.645Z",
+      "dataPoints": [
+        {
+          "day": 0,
+          "rate": "95.00",
+          "users": 8
+        },
+        {
+          "day": 7,
+          "rate": "90.00",
+          "users": 8
+        },
+        {
+          "day": 14,
+          "rate": "82.00",
+          "users": 7
+        },
+        {
+          "day": 21,
+          "rate": "75.00",
+          "users": 6
+        },
+        {
+          "day": 28,
+          "rate": "70.00",
+          "users": 6
+        },
+        {
+          "day": 35,
+          "rate": "58.00",
+          "users": 5
+        },
+        {
+          "day": 42,
+          "rate": "51.00",
+          "users": 4
+        },
+        {
+          "day": 49,
+          "rate": "44.00",
+          "users": 3
+        }
+      ]
+    }
+  ]
+}
